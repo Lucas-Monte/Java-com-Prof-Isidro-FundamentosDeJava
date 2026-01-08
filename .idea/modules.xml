@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-OO/Java-OO.iml" filepath="$PROJECT_DIR$/Java-OO/Java-OO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-OO-Isidro.iml" filepath="$PROJECT_DIR$/.idea/Java-OO-Isidro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoCalendario/ProjetoCalendario.iml" filepath="$PROJECT_DIR$/ProjetoCalendario/ProjetoCalendario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoContaBancaria/ProjetoContaBancaria.iml" filepath="$PROJECT_DIR$/ProjetoContaBancaria/ProjetoContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoEcommerce/ProjetoEcommerce.iml" filepath="$PROJECT_DIR$/ProjetoEcommerce/ProjetoEcommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoMemoria/ProjetoMemoria.iml" filepath="$PROJECT_DIR$/ProjetoMemoria/ProjetoMemoria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoPackage/ProjetoPackage.iml" filepath="$PROJECT_DIR$/ProjetoPackage/ProjetoPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoStatic/ProjetoStatic.iml" filepath="$PROJECT_DIR$/ProjetoStatic/ProjetoStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoTime/ProjetoTime.iml" filepath="$PROJECT_DIR$/ProjetoTime/ProjetoTime.iml" />
+    </modules>
+  </component>
+</project>
