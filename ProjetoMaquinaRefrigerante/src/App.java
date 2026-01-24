@@ -53,22 +53,20 @@ public class App {
                     System.out.println("Saldo restante R$ " + maquina1.creditoRestante());
                     break;
                 case 4:
-                    if (maquina1.creditoRestante() > 0) {
+                    if (maquina1.creditoRestante() > 0.0) {
                         System.out.println("Ainda possui o valor de R$ " + maquina1.creditoRestante());
                         System.out.println("Saque o dinheiro ou compre um produto antes de sair.");
+                        opcao = 0;
                         break;
-                    }
-                    else {
+                    } else {
                         System.out.println("Você saiu!");
                         return;
                     }
                 default:
                     System.out.println("Opção inválida!");
+                    break;
             }
-        }while (opcao != 4);
-
-
-
+        } while (opcao != 4);
 
         teclado.close();
     }
