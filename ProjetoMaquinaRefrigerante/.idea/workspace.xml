@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7558dd00-d708-4796-920f-f3a1688bfd40" name="Changes" comment="adiciona Projeto Maquina de Refrigerante - Exercicio OO">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="7558dd00-d708-4796-920f-f3a1688bfd40" name="Changes" comment="adiciona Projeto Maquina de Refrigerante - Exercicio OO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +65,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769211806877</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adiciona Projeto Maquina de Refrigerante - Exercicio OO">
+      <option name="closed" value="true" />
+      <created>1769214067188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769214067188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -76,15 +81,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="adiciona Projeto Maquina de Refrigerante - Exercicio OO" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/App.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="maquina1.credito" />
